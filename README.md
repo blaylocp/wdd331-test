@@ -1,7 +1,7 @@
 # WDD 331R Practice Site
 **Student:** Laurin Vasquez
-**Semester:** Spring 2026 
-**Live Site:** [View Site](https://your-username.github.io/your-repo-name/)
+**Semester:** Spring 2026
+**Live Site:** [View Site](https://laulinvasquez.github.io/wdd331-practice-site/)
 ## About
 This repository is my Practice Site for WDD 331R: Advanced CSS.
 Each week I add new pages and styles as I work through the course
