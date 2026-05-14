@@ -125,3 +125,14 @@
     border-radius: 0.5rem;
   }
 }
+
+
+
+/* proximity */
+
+@scope (.theme-light) {
+    p { color: #1e293b; }
+}
+@scope (.theme-dark) {
+    p { color: #f1f5f9; }
+}
