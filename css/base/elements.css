@@ -26,25 +26,6 @@
       padding: var(--space-md);
       margin-bottom: var(--space-lg);
     }
-    nav {
-      display: flex;
-      justify-content: center;
-      text-align: center;
-      gap: var(--space-lg);
-      padding: var(--space-md);
-      a {
-        font-size: var(--text-lg);
-        color: var(--color-primary);
-        padding: var(--space-sm);
-        border-radius: var(--border-radius);
-        transition: background-color 0.3s ease;
-
-        &:hover {
-          background-color: var(--color-primary-hover);
-          color: var(--color-bg);
-        }
-      }
-    }
   }
 
   footer{
