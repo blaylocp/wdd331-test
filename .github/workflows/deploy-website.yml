@@ -33,3 +33,4 @@ jobs:
           folder: .
           branch: website
           clean: true
+          force: true
